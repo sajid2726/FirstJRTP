@@ -12,6 +12,13 @@ public class Application {
 		System.out.println("From git direclty");
 		System.out.println("This is second try");
 		System.out.println("This is third try");
+
+
+		//stash code 
+		//addBook(){
+
+		};
+
 	}
 
 }
